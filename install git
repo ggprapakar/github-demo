@@ -1,0 +1,21 @@
+// Start install git, VS code
+
+https://code.visualstudio.com/
+
+https://github.com/
+
+https://git-scm.com/
+
+//Install brew for Mac M1
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+// reference-> https://brew.sh/
+brew install wget
+
+
+
+//After install git - connect git & Github
+git config --global user.name "ggprapakar"
+git config --global user.email "govindaprapakaran28@gmail.com"
+git config --list
+
